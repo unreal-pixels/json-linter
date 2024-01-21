@@ -1,4 +1,4 @@
-# Unreal Pixels Company Website
+# Unreal Pixels JSON Linter
 
 ### `npm start`
 
