@@ -36,7 +36,7 @@ class App extends React.Component<RouteComponentProps> {
 
     return (
       <>
-        <Header productName="JSON Linter" />
+        <Header productName="JSON Linter" productId="json-linter" />
         <Wrapper>
           {error && <div className="json-error"><pre>{errorReason}</pre></div>}
           <label className="json-entry--label" htmlFor="json-entry">Enter or Paste JSON</label>

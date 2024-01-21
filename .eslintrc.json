@@ -31,6 +31,7 @@
       "spellcheck"
   ],
   "rules": {
+      "@typescript-eslint/consistent-type-definitions": 0,
       "@typescript-eslint/strict-boolean-expressions": 0,
       "@typescript-eslint/prefer-nullish-coalescing": 0,
       "@typescript-eslint/space-before-function-paren": 0,
@@ -48,6 +49,7 @@
           "minLength": 2,
           "ignoreRequire": true,
           "skipWords": [
+              "noreferrer",
               "instagram",
               "linkedin",
               "pathname",
