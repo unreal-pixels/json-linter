@@ -69,7 +69,8 @@
               "svg",
               "gif",
               "axios",
-              "href"
+              "href",
+              "adsbygoogle"
          ]
       }]
   }
